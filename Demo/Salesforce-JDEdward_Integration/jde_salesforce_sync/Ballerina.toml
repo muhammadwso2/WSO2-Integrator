@@ -1,0 +1,9 @@
+[package]
+org = "orgfk2th"
+name = "jde_salesforce_sync"
+version = "0.1.0"
+distribution = "2201.13.4"
+title = "JDE_Salesforce_sync"
+
+[build-options]
+sticky = true

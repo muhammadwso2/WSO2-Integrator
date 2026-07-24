@@ -1,0 +1,3 @@
+[workspace]
+title = "Fenner Precision Polymers Demo "
+packages = ["jde_salesforce_sync"]
